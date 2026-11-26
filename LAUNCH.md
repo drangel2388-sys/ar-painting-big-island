@@ -1,0 +1,1 @@
+Preview only. Confirm business name, contact, services, licensing, insurance, photos and reviews. Connect quote delivery, test on mobile, configure canonical production URL, generate sitemap, remove noindex and robots block only at launch. Configure Search Console and consent-aware analytics and ad conversion tracking. Do not merge into main without approval.
